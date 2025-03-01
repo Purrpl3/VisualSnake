@@ -1,4 +1,4 @@
-﻿Option Explicit On
+Option Explicit On
 Imports System.Windows.Threading
 
 Class MainWindow
@@ -218,4 +218,4 @@ Class MainWindow
         snakeBody.Add(newSegment)
     End Sub
 End Class
-' Thank you to Codeium and Copilot
+' Thank you
